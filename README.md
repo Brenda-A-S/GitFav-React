@@ -1,3 +1,5 @@
+Projeto criado durante a Formação React Developer da DIO, utilizados os conceitos de useState, função assÍncrona para requisição de API, eventos onClick e styled-components.
+
 ![localhost_3000_ (1)](https://github.com/Brenda-A-S/Brenda-A-S/assets/69852246/0cbd1ffe-7af1-40a1-93af-34ba88ce3e6e)
 
 # Getting Started with Create React App
