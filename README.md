@@ -1,4 +1,4 @@
-#GitFav
+# GitFav
 
 Projeto com React que consome a API do GitHub, favorita o repositório que é buscado, oferecendo um link direto para o mesmo, facilitando o acesso.
 
