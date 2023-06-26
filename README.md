@@ -1,5 +1,10 @@
+#GitFav
+
 Projeto com React que consome a API do GitHub, favorita o repositório que é buscado, oferecendo um link direto para o mesmo, facilitando o acesso.
-Criado durante a Formação React Developer da DIO, utilizados os conceitos de useState, função assÍncrona para requisição de API, eventos onClick e styled-components.
+
+Foi riado durante a Formação React Developer da DIO, utilizados os conceitos de useState, função assÍncrona para requisição de API, eventos onClick e styled-components.
+
+# Preview
 
 ![localhost_3000_ (1)](https://github.com/Brenda-A-S/Brenda-A-S/assets/69852246/0cbd1ffe-7af1-40a1-93af-34ba88ce3e6e)
 
