@@ -2,7 +2,7 @@
 
 Projeto com React que consome a API do GitHub, favorita o repositório que é buscado, oferecendo um link direto para o mesmo, facilitando o acesso.
 
-Foi riado durante a Formação React Developer da DIO, utilizados os conceitos de useState, função assÍncrona para requisição de API, eventos onClick e styled-components.
+Foi criado durante a Formação React Developer da DIO, utilizados os conceitos de useState, função assÍncrona para requisição de API, eventos onClick e styled-components.
 
 # Preview
 
